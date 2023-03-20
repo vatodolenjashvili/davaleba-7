@@ -1,0 +1,251 @@
+.divheader {
+  display: flex;
+  width: 100%;
+  height: 160px;
+}
+
+.allport {
+  font-size: 32px;
+  color: #758bfd;
+  margin-left: 98px;
+  margin-top: 62px;
+}
+
+.sarchevi {
+  margin-top: 66px;
+  font-size: 24px;
+  gap: 50px;
+  display: flex;
+  position: absolute;
+}
+.news {
+  margin-left: 466px;
+  color: #27187f;
+}
+
+.services {
+  color: #758bfd;
+}
+
+.who {
+  color: #758bfd;
+}
+
+.search {
+  width: 221px;
+  height: 55px;
+  border: 3px solid #27187f;
+  border-radius: 10px;
+  margin-left: 1121px;
+  margin-top: 53px;
+  position: absolute;
+}
+
+.logo {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 1290px;
+}
+
+span {
+  color: #27187f;
+}
+
+.divmain {
+  width: 100%;
+  height: 1051px;
+  background-color: #ddeaf8;
+}
+
+h2 {
+  font-size: 32px;
+  color: #27187f;
+  margin-left: 98px;
+  margin-top: 94px;
+  position: absolute;
+}
+
+.line1 {
+  display: flex;
+}
+
+.info1 {
+  border-radius: 10px;
+  position: absolute;
+  width: 400px;
+  height: 333px;
+  background-color: white;
+  margin-top: 199px;
+  margin-left: 98px;
+}
+
+.shidapoto {
+  margin-top: 33px;
+  margin-left: 30px;
+}
+
+h3 {
+  margin-top: 33px;
+  margin-left: 30px;
+  font-size: 20px;
+  color: #133b3a;
+  width: 340px;
+  height: 46px;
+}
+
+.info2 {
+  border-radius: 10px;
+  position: absolute;
+  width: 400px;
+  height: 333px;
+  background-color: white;
+  margin-top: 199px;
+  margin-left: 520px;
+}
+
+.info3 {
+  border-radius: 10px;
+  position: absolute;
+  width: 400px;
+  height: 333px;
+  background-color: white;
+  margin-top: 199px;
+  margin-left: 942px;
+}
+
+.line2 {
+  display: flex;
+}
+
+.info4 {
+  border-radius: 10px;
+  position: absolute;
+  width: 400px;
+  height: 333px;
+  background-color: white;
+  margin-top: 583px;
+  margin-left: 98px;
+}
+
+.info5 {
+  border-radius: 10px;
+  position: absolute;
+  width: 400px;
+  height: 333px;
+  background-color: white;
+  margin-top: 583px;
+  margin-left: 520px;
+}
+
+.info6 {
+  border-radius: 10px;
+  position: absolute;
+  width: 400px;
+  height: 333px;
+  background-color: white;
+  margin-top: 583px;
+  margin-left: 942px;
+}
+
+.divfooter {
+  background-color: #758bfd;
+  width: 100%;
+  height: 504px;
+  display: flex;
+}
+
+.about {
+  margin-left: 98px;
+  padding-top: 75px;
+}
+
+.footerh1 {
+  color: #00cad7;
+  font-size: 18px;
+}
+
+.footerh6 {
+  font-size: 15px;
+  color: white;
+  margin-top: 17px;
+}
+
+.icon {
+  color: white;
+  margin-top: 17px;
+  width: 22px;
+  height: 22px;
+  gap: 24px;
+}
+
+.trending {
+  margin-left: 488px;
+  margin-top: 75px;
+  position: absolute;
+}
+
+.information {
+  margin-left: 841px;
+  margin-top: 75px;
+  position: absolute;
+}
+
+.costumer {
+  margin-left: 1194px;
+  margin-top: 75px;
+  position: absolute;
+}
+
+.payments {
+  display: flex;
+  position: absolute;
+  margin-left: 921px;
+  margin-top: 374px;
+  gap: 11px;
+}
+
+.visa {
+  background-color: white;
+  width: 97px;
+  height: 55px;
+  border-radius: 5px;
+}
+
+.master {
+  background-color: white;
+  width: 97px;
+  height: 55px;
+  border-radius: 5px;
+}
+
+.cash {
+  background-color: white;
+  width: 97px;
+  height: 55px;
+  border-radius: 5px;
+}
+
+.insla {
+  background-color: white;
+  width: 97px;
+  height: 55px;
+  border-radius: 5px;
+}
+
+.imgvisa {
+  margin-left: 2px;
+  margin-top: 13px;
+}
+
+.imgmaster {
+  margin-top: 1px;
+  margin-left: 7px;
+}
+
+.imgcash {
+  margin-top: 4px;
+}
+
+.imginsta {
+  margin-left: 7px;
+}
